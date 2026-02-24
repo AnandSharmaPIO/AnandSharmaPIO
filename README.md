@@ -2,7 +2,7 @@
   
 # 👋 Hi, I'm Anand Sharma
 
-### 🚀 FullStack Engineer | 🤖 AI Systems Architect | 💡 Automation Specialist
+### 🚀 FullStack Engineer | 🤖 AI Prompt Architect | 💡 AI Automation Specialist
 
 *Bridging traditional software architecture with modern AI capabilities*
 
