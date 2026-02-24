@@ -6,10 +6,6 @@
 
 *Bridging traditional software architecture with modern AI capabilities*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anandsharmapio)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AnandSharmaPIO)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anand@programmer.ai)
-
 </div>
 
 ---
@@ -92,10 +88,6 @@ I architect **autonomous AI Agents** and implement **Model Context Protocol (MCP
 
 <div align="center">
 
-![Anand's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnandSharmaPIO&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnandSharmaPIO&layout=compact&theme=tokyonight&hide_border=true)
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AnandSharmaPIO&theme=tokyonight&hide_border=true)
 
 </div>
@@ -108,7 +100,7 @@ I architect **autonomous AI Agents** and implement **Model Context Protocol (MCP
 const anandSharma = {
   role: "Software Engineer @ Programmer.ai",
   experience: "1.2+ years",
-  specialization: ["Backend Engineering", "AI Systems", "Automation"],
+  specialization: ["Full Stack Engineering", "AI Systems", "Automation"],
   
   currentFocus: [
     "Autonomous AI Agents",
@@ -120,7 +112,7 @@ const anandSharma = {
   techStack: {
     backend: ["C#", ".NET Core", "ASP.NET MVC", "SQL Server"],
     frontend: ["React.js", "Node.js"],
-    ai: ["LLMs", "Generative AI", "AI Agents", "MCP Servers"],
+    ai: ["Generative AI", "AI Agents", "MCP Servers", prompt Engineering],
     architecture: ["Clean Architecture", "Microservices", "RESTful APIs"]
   },
   
