@@ -65,9 +65,9 @@ I architect **autonomous AI Agents** and implement **Model Context Protocol (MCP
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
 ### AI & Automation
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![GitHub Copilot](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=copilot&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/Copilot-3776AB?style=for-the-badge&logo=copilot&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-412991?style=for-the-badge&logo=Claude&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=chatgpt&logoColor=white)
 
 ---
 
