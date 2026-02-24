@@ -66,7 +66,7 @@ I architect **autonomous AI Agents** and implement **Model Context Protocol (MCP
 
 ### AI & Automation
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=copilot&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 
 ---
@@ -134,22 +134,6 @@ const anandSharma = {
 - 🏗️ **System Architecture:** Designing scalable, maintainable backend systems
 - 🔄 **Automation:** Creating intelligent systems that reduce manual overhead
 - 📚 **Continuous Learning:** Staying current with emerging technologies in AI and software engineering
-
----
-
-## 🤝 Let's Connect
-
-I'm always interested in collaborating on innovative projects, especially those involving:
-- 🤖 AI-powered automation and intelligent systems
-- 🏗️ Backend architecture and scalable web solutions
-- 🔄 Codebase modernization and migration projects
-- 💡 Innovative applications of LLMs and Generative AI
-
-**Feel free to reach out for:**
-- Technical discussions and knowledge sharing
-- Collaboration opportunities
-- Open-source contributions
-- AI/Backend engineering consultation
 
 ---
 
