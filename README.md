@@ -2,7 +2,7 @@
   
 # 👋 Hi, I'm Anand Sharma
 
-### 🚀 Backend Engineer | 🤖 AI Systems Architect | 💡 Automation Specialist
+### 🚀 FullStack Engineer | 🤖 AI Systems Architect | 💡 Automation Specialist
 
 *Bridging traditional software architecture with modern AI capabilities*
 
@@ -24,9 +24,9 @@ I architect **autonomous AI Agents** and implement **Model Context Protocol (MCP
 <tr>
 <td width="50%" valign="top">
 
-### 🏗️ Backend Engineering
+### 🏗️ FullStack Engineering
 - **Languages:** C#, .NET Core
-- **Frameworks:** ASP.NET MVC
+- **Frameworks:** React js, ASP.NET MVC, Tailwind css, Bootstrap
 - **Architecture:** Clean Architecture, Microservices
 - **Database:** SQL Server, Performance Optimization
 - **API Design:** RESTful APIs
@@ -90,6 +90,8 @@ I architect **autonomous AI Agents** and implement **Model Context Protocol (MCP
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AnandSharmaPIO&theme=tokyonight&hide_border=true)
 
+![Profile Views](https://komarev.com/ghpvc/?username=AnandSharmaPIO&color=blueviolet&style=flat-square&label=Profile+Views)
+
 </div>
 
 ---
@@ -111,7 +113,7 @@ const anandSharma = {
   
   techStack: {
     backend: ["C#", ".NET Core", "ASP.NET MVC", "SQL Server"],
-    frontend: ["React.js", "Node.js"],
+    frontend: ["React.js", "React js", "ASP.NET MVC", "Tailwind css", "Bootstrap"],
     ai: ["Generative AI", "AI Agents", "MCP Servers", prompt Engineering],
     architecture: ["Clean Architecture", "Microservices", "RESTful APIs"]
   },
@@ -154,8 +156,6 @@ I'm always interested in collaborating on innovative projects, especially those 
 <div align="center">
 
 ### 💭 *"Transforming traditional software engineering with the power of AI"*
-
-![Profile Views](https://komarev.com/ghpvc/?username=AnandSharmaPIO&color=blueviolet&style=flat-square&label=Profile+Views)
 
 **⭐ Star my repositories if you find them useful!**
 
