@@ -16,7 +16,7 @@
 
 ## 🎯 About Me
 
-Results-oriented **Software Engineer** with **1.2+ years of experience** specializing in building robust backend systems and pioneering AI-driven automation. Currently at **[Programmer.ai](https://programmer.ai)**, I drive feature development for scalable web solutions while leading internal AI adoption initiatives.
+Results-oriented **Software Engineer** with **1.2+ years of experience** specializing in building robust backend systems and pioneering AI-driven automation. Currently at **[Programmer.ai](https://programmers.ai)**, I drive feature development for scalable web solutions while leading internal AI adoption initiatives.
 
 I architect **autonomous AI Agents** and implement **Model Context Protocol (MCP) servers** to automate complex codebase migrations, leveraging advanced prompt engineering to achieve high-fidelity code generation and dramatically reduce manual refactoring time.
 
